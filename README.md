@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lordkaito
 - 👀 I’m interested in programming in general, all kind of languages, technologies etc.
 - 🌱 I’m currently learning JS, improving my HTML and CSS knowledge, learning some about terminal (linux) and more
-- 💞️ I’m looking to collaborate on whatever I can. I might not best right know, but if someone trusts me I can do a lot, I'm sure about that
+- 💞️ I’m looking to collaborate on whatever I can. I might not best right know, but I will!
 - 📫 You can text me via Twitter (@cespedesisai), email (cespedesisai88@gmail.com) or via discord (lordkaito#9910)
 
 <!---
