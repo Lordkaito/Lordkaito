@@ -12,8 +12,8 @@
 ## Passion
 
 - JavaScript I realy love this language
-- Back End
-- Front End
+- Back-end
+- Front-end
 - Tech in general
 
 ## Check me
