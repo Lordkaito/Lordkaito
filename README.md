@@ -11,7 +11,7 @@
 
 ## Passion
 
-- JavaScript I realy love this language
+- JavaScript. I realy love this language
 - Back-end
 - Front-end
 - Tech in general
