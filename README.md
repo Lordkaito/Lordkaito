@@ -20,7 +20,7 @@
 
 ### My stats
 
-[![Isai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lordkaito&count_private=true)](https://github.com/lordkaito/github-readme-stats)
+[![Isai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lordkaito&count_private=true&theme=radical)](https://github.com/lordkaito/github-readme-stats)
 
 ### My projects
 
