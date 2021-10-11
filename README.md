@@ -18,6 +18,11 @@
 
 ## Check me
 
+### My stats
+
+[![Isai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lordkaito)](https://github.com/lordkaito/github-readme-stats)
+
+
 Here you have some of my projects outside of GitHub!
 - [Concert Page](https://jovial-visvesvaraya-e010cc.netlify.app/) ![Concert Page](https://user-images.githubusercontent.com/59100477/134724376-4bde7ea3-a6af-4874-805b-ad94022fd193.png)
 
