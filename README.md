@@ -31,6 +31,7 @@ Here you have some of my projects outside of GitHub!
 
 
 - [News Portal](https://newsgridlk.netlify.app/) ![News Portal](https://user-images.githubusercontent.com/59100477/134724033-a82e489c-9a75-483b-91c2-f028ecf947be.png) 
+- ![](https://komarev.com/ghpvc/?username=your-github-username)
 
 
 - [Business Page](https://edgeledlk.netlify.app/)![Business Page](https://user-images.githubusercontent.com/59100477/134724609-742dfc48-7581-4e7d-ba7c-072356bd38c3.png)
