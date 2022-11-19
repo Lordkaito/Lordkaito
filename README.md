@@ -36,7 +36,7 @@ Here you have some of my projects outside of GitHub!
 
 
 
-Also you can check my profile [here](https://www.linkedin.com/in/isai-c%C3%A9spedes-4164a51b4/)
+Also you can check my profile [here](https://www.linkedin.com/in/isaicespedes/)
 
 
 ![](https://komarev.com/ghpvc/?username=lordkaito)
