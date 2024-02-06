@@ -21,7 +21,6 @@
 
 [![Isai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lordkaito&count_private=true&theme=radical)](https://github.com/lordkaito/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordkaito&theme=tokyonight)
-[![Isai's GitHub stats](https://github-readme-stats.vercel.app/api-wakatime?username=Lordkaito&layout=compact&count_private=true&theme=radical)](https://github.com/lordkaito/github-readme-stats)
 
 ### My projects
 
