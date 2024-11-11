@@ -24,18 +24,11 @@
 
 ### My projects
 
-Here you have some of my projects outside of GitHub!
-- [Concert Page](https://jovial-visvesvaraya-e010cc.netlify.app/) ![Concert Page](https://user-images.githubusercontent.com/59100477/134724376-4bde7ea3-a6af-4874-805b-ad94022fd193.png)
+You can find more of my project here:
+- [Portfolio](https://lk-portfolio-kappa.vercel.app/)![image](https://github.com/user-attachments/assets/15cc598c-3145-4aa8-b0fc-95b09ad9745c)
 
 
-- [News Portal](https://newsgridlk.netlify.app/) ![News Portal](https://user-images.githubusercontent.com/59100477/134724033-a82e489c-9a75-483b-91c2-f028ecf947be.png) 
-
-
-- [Business Page](https://edgeledlk.netlify.app/)![Business Page](https://user-images.githubusercontent.com/59100477/134724609-742dfc48-7581-4e7d-ba7c-072356bd38c3.png)
-
-
-
-Also you can check my profile [here](https://www.linkedin.com/in/isaicespedes/)
+Also you can check my LinkedIn profile [here](https://www.linkedin.com/in/isaicespedes/)
 
 
 ![](https://komarev.com/ghpvc/?username=lordkaito)
